@@ -1,0 +1,63 @@
+<!--inline-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+</title>
+</head>
+<body>
+    <h1 style="color: aqua;"> charan SAI REDDY</h1>
+    <h2>CHARAN</h2>
+    </body>
+</html>
+
+
+<!--internal css-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+</title>
+<style>
+    h2{
+        color: red;
+    }
+</style>
+</head>
+<body>
+    <h1> charan SAI REDDY</h1>
+    <h2>CHARAN</h2>
+    </body>
+</html>
+
+
+
+<!--external css-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+<title>
+</title>
+</head>
+<body>
+    <h1> charan SAI REDDY</h1>
+    <h2>CHARAN</h2>
+    <h3>apni marzee</h3>
+    <h3>apni marzee</h3>
+    <h3>apni marzee</h3>
+    <h3>apni marzee</h3>
+    <h3>apni marzee</h3>
+    <h3>apni marzee</h3>
+    </body>
+</html>
+
+
+  <!--style.css-->
+
+h3{
+    color: greenyellow;
+}
